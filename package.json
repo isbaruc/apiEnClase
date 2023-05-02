@@ -1,0 +1,20 @@
+{
+	"dependencies": {
+		"express": "^4.18.2",
+		"moment": "^2.29.4",
+		"nodemon": "^2.0.22"
+	},
+	"type": "module",
+	"name": "apienclase",
+	"description": "1.  Crear el repositorio -> https://github.com/isbaruc/apiEnClase\r 2.  Crear el archivo api.js -> https://github.com/isbaruc/apiEnClase/blob/main/api.js\r 3.  Instalar las dependencias\r     [] nodemon -> npm install nodemon\r     [] express -> npm install express\r     [] moment -> npm install moment",
+	"version": "1.0.0",
+	"main": "api.js",
+	"devDependencies": {},
+	"scripts": {
+		"start": "nodemon api.js",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC"
+}
